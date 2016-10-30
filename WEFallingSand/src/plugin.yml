@@ -1,0 +1,10 @@
+name: WEFallingSand
+version: 1.0
+description: Convert WE selection into commands
+author: memorycode
+main: me.memorycode.Main.Main
+depend: [WorldEdit]
+commands:
+  wefs:
+   description: Use WEFS
+   permission: wefs.use
